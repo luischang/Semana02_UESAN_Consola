@@ -44,3 +44,5 @@ if (busqueda != null)
     Console.WriteLine(busqueda.dni + " - " + busqueda.nombreCompleto + " - " + busqueda.telefono);
 else
     Console.WriteLine("No se encontro el registro");
+
+Console.Write("Fin");
